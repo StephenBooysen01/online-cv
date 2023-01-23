@@ -12,11 +12,11 @@ sidebar:
     avatar: knockout.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: a.nguyen@kangan.edu.au
+    email: stephen.m.booysen@gmail.com
     timezone: AEDT / Australian Eastern Daylight Savings
-    citizenship: Australian citizen
-    linkedin: anh-nguyen-99b82baa
-    github: a-nguyen-kangan
+    citizenship: New Zealand citizen
+    linkedin: 
+    github: StephenBooysen01
 
     languages:
       title: Languages
@@ -24,20 +24,16 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: Vietnamese
-          level: Basic
 
     interests:
-      title: Interests
-      info:
-        - item: Judo
-          link:
-
-        - item: MMA
-          link:
-
-        - item: Tennis
-          link:
+      title: Writing code
+      info: Messaround with code in gaming engines
+      
+      title: Cooking 
+      info: I enjoy food, and exploring new flavours
+      
+      
+        
 
 career-profile:
     title: Career Profile
@@ -47,45 +43,35 @@ career-profile:
       Experienced Application Developer
 
 education:
-    title: Education
+    title: Education Bachelor of Business
     info:
-      - degree: Bachelor of Computer Science
+      - degree: Bachelor of Business
         university: RMIT University
-        time: 1999 - 2002
-        details: |
-          Majors
-            - AI
-            - Cryptography
-      - degree: Diploma in Vocational Education Training
-        university: Northern Melbourne Institute of TAFE
-        time: 2009
-      - degree: CIV in Training and Assessment
+        time:  2018
+      - Diploma: Advanced Diploma of Marketing 
+        university: RMIT University
+        time:  2014
+
+      - Certificate: CIV information Technology (programming)
         university: Swinburne University
-        time: 2012
+        time: 2022
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Educator
-        time: 20122 - Present
-        company: Bendigo Kangan Institute
-        details: |
+      - role: Admintrator
+        time: 2016 -2020
+        company: Booysen Consulting
+        details: Took Care of Admin emails, set up online promtional ads. 
           Cremorne, Victoria, Australia
-      - role: Vocational Education Trainer, Assessor and Co-ordinator
-        time: 2011 - 2022
-        company: Swinburne University
-        details: |
-          Courses areas created and involved:
-            - CIV and Diploma in Software Development (created)
-            - Cyber Security (taught and developed)
-            - Games Development (taught and developed)
-            - Networking (taught)
-      - role: Training Analyst
-        time: 2014
-        company: Toxfree Solutions
-        details: |
-          ERP - Standardisation
-          Mulgrave, Victoria, Australia
+      - role: Bussie
+        time:  2021 - 2022
+        company: Richmond Club Hotel
+        details: 
+                 -	handle the delicate duty of retrieving and washing glass wear
+                 -	aided bartenders 
+
+
 projects:
     title: Projects
     intro: >
