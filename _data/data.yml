@@ -27,17 +27,18 @@ sidebar:
   interests:
     title: Interests
     info:
-      - item: Writing Code, Messaround with code in gaming engines.
+      - item: Writing Code, Messing around with code in gaming engines.
       - item: Cooking, I enjoy food, and exploring new flavours.
       - item: Gaming
-      - item: Socialising, with firends. 
+      - item: Socialising, with friends. 
 
 career-profile:
   title: Career Profile
   summary: |
-    Experienced Vocational Education Trainer and course Co-ordinator
-    Experienced corporate trainer
-    Experienced Application Developer
+    Enthusiastic IT student looking to learn more and find a fulfilling career in IT.
+    I have works in Hospitality and Admin.
+    Looking to change career paths in a more passionate direction.
+
 
 education:
   title: Education Bachelor of Business
@@ -62,7 +63,7 @@ experiences:
       details: |
         - Took Care of Admin emails.
         - set up online promtional ads.
-        - Cremorne, Victoria, Australia
+        - Beaumoris Victoria, Australia
 
     - role: Bussie
       time: 2021 - 2022
