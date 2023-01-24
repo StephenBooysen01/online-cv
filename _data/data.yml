@@ -29,6 +29,8 @@ sidebar:
     info:
       - item: Writing Code, Messaround with code in gaming engines.
       - item: Cooking, I enjoy food, and exploring new flavours.
+      - item: Gaming
+      - item: Socialising, with firends. 
 
 career-profile:
   title: Career Profile
@@ -43,11 +45,11 @@ education:
     - degree: Bachelor of Business
       university: RMIT University
       time: 2018
-    - Diploma: Advanced Diploma of Marketing
+    - degree: Advanced Diploma of Marketing
       university: RMIT University
       time: 2014
 
-    - Certificate: CIV information Technology (programming)
+    - degree: CIV information Technology (programming)
       university: Swinburne University
       time: 2022
 
@@ -57,14 +59,15 @@ experiences:
     - role: Admintrator
       time: 2016 -2020
       company: Booysen Consulting
-      details:
+      details: |
         - Took Care of Admin emails.
         - set up online promtional ads.
         - Cremorne, Victoria, Australia
+
     - role: Bussie
       time: 2021 - 2022
       company: Richmond Club Hotel
-      details:
+      details:  |
         - handle the delicate duty of retrieving and washing glass wear
         - aided bartenders
 
