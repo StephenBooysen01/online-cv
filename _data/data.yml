@@ -3,103 +3,95 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Anh Nguyen
-    tagline: Vocational Education Trainer | Lead Educator
-    avatar: knockout.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Anh Nguyen
+  tagline: Vocational Education Trainer | Lead Educator
+  avatar: knockout.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: stephen.m.booysen@gmail.com
-    timezone: AEDT / Australian Eastern Daylight Savings
-    citizenship: New Zealand citizen
-    linkedin: 
-    github: StephenBooysen01
+  # Sidebar links
+  email: stephen.m.booysen@gmail.com
+  timezone: AEDT / Australian Eastern Daylight Savings
+  citizenship: New Zealand citizen
+  linkedin:
+  github: StephenBooysen01
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: Native
 
-
-    interests:
-      title: Interests
-      info:
-       - item: Writing Code, Messaround with code in gaming engines.
-       - item: Cooking, I enjoy food, and exploring new flavours.
-      
-       
-       
-      
-      
-        
+  interests:
+    title: Interests
+    info:
+      - item: Writing Code, Messaround with code in gaming engines.
+      - item: Cooking, I enjoy food, and exploring new flavours.
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Experienced Vocational Education Trainer and course Co-ordinator
-      Experienced corporate trainer
-      Experienced Application Developer
+  title: Career Profile
+  summary: |
+    Experienced Vocational Education Trainer and course Co-ordinator
+    Experienced corporate trainer
+    Experienced Application Developer
 
 education:
-    title: Education Bachelor of Business
-    info:
-      - degree: Bachelor of Business
-        university: RMIT University
-        time:  2018
-      - Diploma: Advanced Diploma of Marketing 
-        university: RMIT University
-        time:  2014
+  title: Education Bachelor of Business
+  info:
+    - degree: Bachelor of Business
+      university: RMIT University
+      time: 2018
+    - Diploma: Advanced Diploma of Marketing
+      university: RMIT University
+      time: 2014
 
-      - Certificate: CIV information Technology (programming)
-        university: Swinburne University
-        time: 2022
+    - Certificate: CIV information Technology (programming)
+      university: Swinburne University
+      time: 2022
 
 experiences:
-    title: Experiences
-    info:
-      - role: Admintrator
-        time: 2016 -2020
-        company: Booysen Consulting
-        details: 
-            -  Took Care of Admin emails.
-            - set up online promtional ads. 
-            - Cremorne, Victoria, Australia
-      - role: Bussie
-        time:  2021 - 2022
-        company: Richmond Club Hotel
-        details: 
-          -	handle the delicate duty of retrieving and washing glass wear
-          -	aided bartenders 
-
+  title: Experiences
+  info:
+    - role: Admintrator
+      time: 2016 -2020
+      company: Booysen Consulting
+      details:
+        - Took Care of Admin emails.
+        - set up online promtional ads.
+        - Cremorne, Victoria, Australia
+    - role: Bussie
+      time: 2021 - 2022
+      company: Richmond Club Hotel
+      details:
+        - handle the delicate duty of retrieving and washing glass wear
+        - aided bartenders
 
 projects:
-    title: Projects
-    intro: >
-      Current projcts that are in progress. 
+  title: Projects
+  intro: >
+    Current projcts that are in progress.
 
-    assignments:
-      - title: Train Kiosk
-      - tagline: "A responsive website template designed to list trains departures from Richmond stations."
+  assignments:
+    - title: Train Kiosk
+    - tagline: "A responsive website template designed to list trains departures from Richmond stations."
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: C# (ASP.NET)
-        level: 80%
+  toolset:
+    - name: C# (ASP.NET)
+      level: 80%
 
-      - name: Javascript
-        level: 50%
+    - name: Javascript
+      level: 50%
 
-      - name: Angular
-        level: 30%
+    - name: Angular
+      level: 30%
 
-      - name: HTML5 & CSS
-        level: 60%
+    - name: HTML5 & CSS
+      level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
