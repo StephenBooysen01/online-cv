@@ -7,9 +7,9 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Anh Nguyen
-  tagline: Vocational Education Trainer | Lead Educator
-  avatar: knockout.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Stephen Booysen
+  tagline: Information Technology Student  
+  #avatar: knockout.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: stephen.m.booysen@gmail.com
