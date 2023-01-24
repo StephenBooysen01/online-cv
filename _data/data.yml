@@ -26,11 +26,13 @@ sidebar:
 
 
     interests:
-      title: Writing code
-      info: Messaround with code in gaming engines
+      title: Interests
+      info:
+       - item: Writing Code, Messaround with code in gaming engines.
+       - item: Cooking, I enjoy food, and exploring new flavours.
       
-      title: Cooking 
-      info: I enjoy food, and exploring new flavours
+       
+       
       
       
         
@@ -62,8 +64,10 @@ experiences:
       - role: Admintrator
         time: 2016 -2020
         company: Booysen Consulting
-        details: Took Care of Admin emails, set up online promtional ads. 
-          Cremorne, Victoria, Australia
+        details: 
+            -  Took Care of Admin emails.
+            - set up online promtional ads. 
+            - Cremorne, Victoria, Australia
       - role: Bussie
         time:  2021 - 2022
         company: Richmond Club Hotel
@@ -75,17 +79,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: PhoneBook
-        link: "#hook"
-        tagline: "A responsive website template designed to keep a basic list of contacts."
+      Current projcts that are in progress. 
 
+    assignments:
       - title: Train Kiosk
-        link: "#"
-        tagline: "A responsive website template designed to list trains departures from Richmond stations."
+      - tagline: "A responsive website template designed to list trains departures from Richmond stations."
 
 skills:
     title: Skills &amp; Proficiency
@@ -95,19 +93,13 @@ skills:
         level: 80%
 
       - name: Javascript
-        level: 80%
+        level: 50%
 
       - name: Angular
-        level: 90%
+        level: 30%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: React
-        level: 70%
-
-      - name: Adult Education
-        level: 95%
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
